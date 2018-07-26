@@ -5,7 +5,7 @@
 		<ul>
 			<li>
 				<a href="https://vuejs.org" target="_blank">
-					Core Docsdsadasdsa
+					Core 
 				</a>
 			</li>
 			<li>
